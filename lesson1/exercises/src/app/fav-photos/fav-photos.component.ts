@@ -7,9 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class FavPhotosComponent implements OnInit {
   photosTitle = 'Nice View';
-  image1 = 'https://www.launchcode.org/assets/icons/target-00c7a0bc7776901e3c5cdc4c36c465f19e41a249bc7267a595f0bfa14ab944b7.png';
-  image2 = 'https://unsplash.com/photos/75_s8iWHKLs';
-  image3 = '"C:\Users\Laptop1\Desktop\homework\js-assignment-4-html-me-something-ww456zz\pics\dog.png"';
+  image1 = 'https://images.unsplash.com/photo-1622298122128-237fb849c73f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8dG9wJTIwZ3VufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60';
+  image2 = 'https://images.unsplash.com/photo-1531804055935-76f44d7c3621?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8cGhvdG98ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60';
+  image3 = 'https://images.unsplash.com/photo-1631918181927-2495522c0ce3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8c3BvbmdlYm9ifGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60';
 
   constructor() { }
 
